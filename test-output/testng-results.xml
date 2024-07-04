@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-29T13:59:25 IST" name="Suite" finished-at="2024-06-29T13:59:29 IST" duration-ms="3381">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T13:59:25 IST" name="Test1" finished-at="2024-06-29T13:59:27 IST" duration-ms="1978">
+      <class name="restsuured.createuser">
+        <test-method signature="cuser(org.testng.ITestContext)[pri:0, instance:restsuured.createuser@20f5239f]" started-at="2024-06-29T13:59:26 IST" name="cuser" finished-at="2024-06-29T13:59:27 IST" duration-ms="1953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@18271936]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cuser -->
+      </class> <!-- restsuured.createuser -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-06-29T13:59:28 IST" name="Test2" finished-at="2024-06-29T13:59:28 IST" duration-ms="479">
+      <class name="restsuured.getuser">
+        <test-method signature="guser(org.testng.ITestContext)[pri:0, instance:restsuured.getuser@6fd83fc1]" started-at="2024-06-29T13:59:28 IST" name="guser" finished-at="2024-06-29T13:59:28 IST" duration-ms="477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@62b42406]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guser -->
+      </class> <!-- restsuured.getuser -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-06-29T13:59:28 IST" name="Test3" finished-at="2024-06-29T13:59:28 IST" duration-ms="467">
+      <class name="restsuured.updateuser">
+        <test-method signature="uuser(org.testng.ITestContext)[pri:0, instance:restsuured.updateuser@2ed2d9cb]" started-at="2024-06-29T13:59:28 IST" name="uuser" finished-at="2024-06-29T13:59:28 IST" duration-ms="465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@299786b1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uuser -->
+      </class> <!-- restsuured.updateuser -->
+    </test> <!-- Test3 -->
+    <test started-at="2024-06-29T13:59:28 IST" name="Test4" finished-at="2024-06-29T13:59:29 IST" duration-ms="412">
+      <class name="restsuured.deleteuser">
+        <test-method signature="duser(org.testng.ITestContext)[pri:0, instance:restsuured.deleteuser@1de76cc7]" started-at="2024-06-29T13:59:28 IST" name="duser" finished-at="2024-06-29T13:59:29 IST" duration-ms="410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2c955487]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duser -->
+      </class> <!-- restsuured.deleteuser -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Suite -->
+</testng-results>
